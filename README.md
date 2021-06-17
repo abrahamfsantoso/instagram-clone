@@ -1,3 +1,14 @@
+## Building Instagram from Scratch Using React, Tailwind CSS, Firebase
+
+This project was made by following tutorial by Karl Hadwen on [Youtube](https://youtu.be/AKeaaa8yAAk)
+
+
+## 📣 Summary
+
+This Instagram clone application was built using React, Firebase & Tailwind CSS. I have built the following pages within this application: login, sign up, dashboard & lastly the user profile page. There are four different pages, some are public and some are private with auth listeners. Firebase handles all the data, and that data is retrieved using a custom hook.
+
+![Preview](instagram-preview.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

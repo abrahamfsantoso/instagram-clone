@@ -1,4 +1,3 @@
-/* eslint-disable import/no-extraneous-dependencies */
 /* eslint-disable no-nested-ternary */
 import { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';

@@ -1,4 +1,3 @@
-/* eslint-disable import/no-extraneous-dependencies */
 import { useEffect } from 'react';
 import PropTypes from 'prop-types';
 import Header from '../components/header';

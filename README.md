@@ -2,6 +2,7 @@
 
 This project was made by following tutorial by Karl Hadwen on [Youtube](https://youtu.be/AKeaaa8yAAk)
 
+***This project is made for practice and portfolio use only. It is not intended for commercial purposes***
 
 ## 📣 Summary
 
